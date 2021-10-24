@@ -1,11 +1,11 @@
 // Активировать документы (true - включены, false - отключены)
-var isRightsEnabled = false; // Права
-var isCovidCertificateEnabled = false; // COVID-сертификат
+var isRightsEnabled = true; // Права
+var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "23.04.2003"; // Дата рождения
-var fullname = "Макаренко Артем Сергійович" // ФИО
-var name = "Артем" // Имя
+var birthdate = "10.10.2003"; // Дата рождения
+var fullname = "Голiняк Iлля Вiкторович" // ФИО
+var name = "Iлля" // Имя
 
 // Паспорт
 var passport_id = "739275497" // Номер паспорта
