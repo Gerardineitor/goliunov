@@ -3,7 +3,7 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "10.10.2004"; // Дата рождения
+var birthdate = "10.10.2000"; // Дата рождения
 var fullname = "Голiняк Iлля Вiкторович" // ФИО
 var name = "Iлля" // Имя
 
